@@ -46,7 +46,7 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
 <div align="center">   
-To reach me and to find out more about little projects outside the coding sphere, check here:) <br>
+To reach me and to find out more about little projects outside the coding sphere, check here:) <br><br>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](www.linkedin.com/in/clarapbsousa)
 [![](https://img.shields.io/badge/instagram-ffcbdb)](https://www.instagram.com/_clarasousa/)
