@@ -12,7 +12,7 @@
           ☕ Hiii! My name is Clara and I'm a student of Informatics and Computing Engineering
           @<a href="https://sigarra.up.pt/feup/pt/web_page.inicial" target="_blank">FEUP</a> who loves to explore everything from the area
           I'm studying/working on to the outside world!
-          I have a soft spot for UI/UX and software development (and coffee ahahah), but I'm also interested by data analysis and machine learning!
+          I have a soft spot for UI/UX and software development (and coffee ahahah), but I'm also interested in data analysis and machine learning!
         </p>
     </div>
 </div>
@@ -46,7 +46,7 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
 <div align="center">   
-To reach me and to find out more about little projects outside the coding sphere, check here:) <br><br>
+To reach me and to find out more about my projects outside the coding sphere, check here:) <br><br>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](www.linkedin.com/in/clarapbsousa)
 [![](https://img.shields.io/badge/instagram-ffcbdb)](https://www.instagram.com/_clarasousa/)
