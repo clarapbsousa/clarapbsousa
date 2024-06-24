@@ -1,26 +1,20 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clarapbsousa&label=Profile%20views&color=ffcbdb&style=flat" alt="clarapbsousa" /> </p>
-<h1 align="center">~ %Helloooo World !</span></h1>
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="width: 30%;" align="left">
-     <h3 align="right">_____My headphones rn 🎧_____</h3>
-        <a href="https://github.com/kittinan/spotify-github-profile">
-            <img src="https://spotify-github-profile.vercel.app/api/view?uid=jj6tinym3wakt2t3p4b9aks5h&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=9ece9a&bar_color_cover=false" alt="spotify-github-profile" style="max-width: 30%;"  align="right">
-        </a>
-    </div>
-    <div style="width: 70%; padding-right: 1px;">
-        <p align = "center">
-          ☕ Hiii! My name is Clara and I'm a student of Informatics and Computing Engineering
-          @<a href="https://sigarra.up.pt/feup/pt/web_page.inicial" target="_blank">FEUP</a> who loves to explore everything from the area
-          I'm studying/working on to the outside world!
-          I have a soft spot for UI/UX and software development (and coffee ahahah), but I'm also interested in data analysis and machine learning!
-        </p>
-    </div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=clarapbsousa&label=Profile%20views&color=ffcbdb&style=flat" alt="clarapbsousa" />
+</p>
+<h1 align="center">~ %Helloooo World !</h1>
+  <p align="left">
+    ☕ Hiii! My name is Clara and I'm a student of Informatics and Computing Engineering @<a href="https://sigarra.up.pt/feup/pt/web_page.inicial"   target="_blank">FEUP</a> who loves to explore everything from the area I'm studying/working on to the outside world!<br>
+    I have a soft spot for UI/UX and software development, but I'm also interested in data analysis and machine learning!
+      </p>
+      <h2 align="center" >My headphones rn 🎧</h2>
+      <div align="center">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jj6tinym3wakt2t3p4b9aks5h&unique=true&count=4" alt="Recently played on Spotify" />
 </div>
 <h2 align="center">My stats 🫀</h2>
 <div align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=clarapbsousa&theme=rose&mode=weekly" alt="GitHub Streak">
-    </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=clarapbsousa&theme=rose&mode=weekly" alt="GitHub Streak">
+  </a>
 </div>
 
 <h2 align="center">Some Languages and Tools</h2>
