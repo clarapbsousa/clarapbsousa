@@ -42,7 +42,7 @@
 <div align="center">   
 To reach me and to find out more about my projects outside the coding sphere, check here:) <br><br>
 
-[![](https://img.shields.io/badge/linkedin-0a66c2)](www.linkedin.com/in/clarapbsousa)
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/clarapbsousa)
 [![](https://img.shields.io/badge/instagram-ffcbdb)](https://www.instagram.com/_clarasousa/)
 [![](https://img.shields.io/badge/spotify-ed760)](https://open.spotify.com/user/jj6tinym3wakt2t3p4b9aks5h?si=68dbe22279c1470c)
 </div>
