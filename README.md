@@ -1,24 +1,24 @@
  <p align="left">
   <img src="https://komarev.com/ghpvc/?username=clarapbsousa&label=Profile%20views&color=9DB375&style=flat" alt="clarapbsousa" />
 </p>
-<!--<h1 align="left">~ %Helloooo World !</h1> -->
-  <!-- <p align="left">
+<h1 align="left">~ %Helloooo World !</h1> 
+  <p align="left">
     ☕ Hiii! My name is Clara and I'm a student of Informatics and Computing Engineering @<a href="https://sigarra.up.pt/feup/pt/web_page.inicial"   target="_blank">FEUP</a> who loves to explore everything from the area I'm studying/working on to the outside world!<br>
     I have a soft spot for UI/UX and software development, but I'm also interested in data analysis and machine learning!
       </p>
-      <h2 align="center" >My headphones rn 🎧</h2>
+      <!--<h2 align="center" >My headphones rn 🎧</h2>
       <div align="center">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=jj6tinym3wakt2t3p4b9aks5h&unique=true&count=4" alt="Recently played on Spotify" />
-</div>
-<h2 align="center">My stats 🫀</h2>
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=clarapbsousa&theme=rose&mode=weekly" alt="GitHub Streak">
-  </a>
 </div> -->
+<h2 align="left">My stats </h2>
+<div align="left">
+  <a href="https://git.io/streak-stats">
+   <img src="https://streak-stats.demolab.com?user=clarapbsousa&theme=graywhite&mode=weekly" alt="GitHub Streak">
+  </a>
+</div>
 
-<!--<h2 align="center">Some Languages and Tools</h2>
-  <p align="center"> 
+<h2 align="left">Some Languages and Tools</h2>
+  <p align="left"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -39,10 +39,10 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-<div align="center">   
+<!--<div align="left">   
 To reach me and to find out more about my projects outside the coding sphere, check here:) <br><br>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/clarapbsousa)
 [![](https://img.shields.io/badge/instagram-ffcbdb)](https://www.instagram.com/_clarasousa/)
-[![](https://img.shields.io/badge/spotify-ed760)](https://open.spotify.com/user/jj6tinym3wakt2t3p4b9aks5h?si=68dbe22279c1470c)
-</div>-->
+[![](https://img.shields.io/badge/spotify-ed760)](https://open.spotify.com/user/jj6tinym3wakt2t3p4b9aks5h?si=68dbe22279c1470c) 
+</div> -->
