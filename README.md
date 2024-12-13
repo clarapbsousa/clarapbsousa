@@ -1,8 +1,8 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=clarapbsousa&label=Profile%20views&color=ffcbdb&style=flat" alt="clarapbsousa" />
+ <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=clarapbsousa&label=Profile%20views&color=9DB375&style=flat" alt="clarapbsousa" />
 </p>
-<h1 align="center">~ %Helloooo World !</h1>
-  <p align="left">
+<!--<h1 align="left">~ %Helloooo World !</h1> -->
+  <!-- <p align="left">
     ☕ Hiii! My name is Clara and I'm a student of Informatics and Computing Engineering @<a href="https://sigarra.up.pt/feup/pt/web_page.inicial"   target="_blank">FEUP</a> who loves to explore everything from the area I'm studying/working on to the outside world!<br>
     I have a soft spot for UI/UX and software development, but I'm also interested in data analysis and machine learning!
       </p>
@@ -15,9 +15,9 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=clarapbsousa&theme=rose&mode=weekly" alt="GitHub Streak">
   </a>
-</div>
+</div> -->
 
-<h2 align="center">Some Languages and Tools</h2>
+<!--<h2 align="center">Some Languages and Tools</h2>
   <p align="center"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -45,4 +45,4 @@ To reach me and to find out more about my projects outside the coding sphere, ch
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/clarapbsousa)
 [![](https://img.shields.io/badge/instagram-ffcbdb)](https://www.instagram.com/_clarasousa/)
 [![](https://img.shields.io/badge/spotify-ed760)](https://open.spotify.com/user/jj6tinym3wakt2t3p4b9aks5h?si=68dbe22279c1470c)
-</div>
+</div>-->
